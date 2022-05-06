@@ -1,0 +1,6 @@
+.transporte{
+    background-color: var(--primario);
+    padding: 1rem;
+    color:var(--fondo);
+    justify-content: center;
+}

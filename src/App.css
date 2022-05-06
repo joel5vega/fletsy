@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  box-sizing: 0;
+  list-style: none;
+  text-decoration: none;
+  font-family: redhat-display, sans-serif;
+}
+
+:root {
+  --primario: #004aad;
+  --activo: #ebdc20;
+  --fondo: #f7fff7;
+  --texto: #343434;
+}
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 100%;
+  height: 100vh;
+}
+
+.boton__principal {
+  background-color: var(--primario);
+  color: var(--fondo);
+  padding: 1rem;
+  border: 1px solid transparent;
+  border-radius: 1rem;
+  justify-content: center;
+  margin:0.5rem;
+  text-align: center;
+}
+.boton__principal:hover{
+  background-color: var(--fondo);
+  cursor: pointer;
+  color: var(--primario);
+  border: 1px solid var(--primario);
+}
+
+.boton__secundario {
+  background-color: var(--activo);
+  color: var(--primario);
+  padding: 1rem;
+  border: 1px solid transparent;
+  border-radius: 1rem;
+  cursor: pointer;
+  margin:0.5rem;
+  justify-content: center;
+  text-align: center;
+}
+.boton__secundario:hover{
+  background-color: var(--fondo);
+  color: var(--activo);
+  border: 1px solid var(--activo);
+}
+.entrada{
+  display: flex;
+  flex-direction: column;
+  gap:0.1rem;
+  padding:0.2rem;
+  margin:1rem;
+}
+.checkbox{
+  display:grid; 
+  grid-template-columns: 1fr 1fr;
+  gap:1rem;
+}
+.checklist{
+  display: flex;
+  gap:0.1rem;
+}
+.a {
+  color: var(--activo);
+}
+label{
+  font-size:1rem;
+  font-weight:bold;
+}
