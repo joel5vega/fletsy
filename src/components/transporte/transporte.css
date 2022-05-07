@@ -4,3 +4,14 @@
     color:var(--fondo);
     justify-content: center;
 }
+.oferta{
+    /* background-color: var(--activo); */
+    color:var(--primario);
+    display: flex;
+    gap:1rem;
+    justify-content: center;
+    align-items: center;
+    border:1px solid transparent;
+    border-radius: 0.5rem;
+    padding:0.5rem;
+}
