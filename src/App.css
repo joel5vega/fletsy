@@ -21,9 +21,19 @@ section {
   justify-content: center;
   align-items: center;
   max-width: 100%;
-  height: 100vh;
+  height: 10 0vh;
 }
 
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1rem;
+  color: var (--primario);
+}
+.boton__menu {
+  color: var(--primario);
+}
 .boton__principal {
   background-color: var(--primario);
   color: var(--fondo);
@@ -31,10 +41,10 @@ section {
   border: 1px solid transparent;
   border-radius: 1rem;
   justify-content: center;
-  margin:0.5rem;
+  margin: 0.5rem;
   text-align: center;
 }
-.boton__principal:hover{
+.boton__principal:hover {
   background-color: var(--fondo);
   cursor: pointer;
   color: var(--primario);
@@ -48,35 +58,35 @@ section {
   border: 1px solid transparent;
   border-radius: 1rem;
   cursor: pointer;
-  margin:0.5rem;
+  margin: 0.5rem;
   justify-content: center;
   text-align: center;
 }
-.boton__secundario:hover{
+.boton__secundario:hover {
   background-color: var(--fondo);
   color: var(--activo);
   border: 1px solid var(--activo);
 }
-.entrada{
+.entrada {
   display: flex;
   flex-direction: column;
-  gap:0.1rem;
-  padding:0.2rem;
-  margin:1rem;
+  gap: 0.1rem;
+  padding: 0.2rem;
+  margin: 1rem;
 }
-.checkbox{
-  display:grid; 
+.checkbox {
+  display: grid;
   grid-template-columns: 1fr 1fr;
-  gap:1rem;
+  gap: 1rem;
 }
-.checklist{
+.checklist {
   display: flex;
-  gap:0.1rem;
+  gap: 0.1rem;
 }
 .a {
   color: var(--activo);
 }
-label{
-  font-size:1rem;
-  font-weight:bold;
+label {
+  font-size: 1rem;
+  font-weight: bold;
 }
