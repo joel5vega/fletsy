@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/fletsy/static/css/main.9f04d28e.css",
-    "main.js": "/fletsy/static/js/main.d7206927.js",
+    "main.js": "/fletsy/static/js/main.8b55436e.js",
     "static/js/787.efc21160.chunk.js": "/fletsy/static/js/787.efc21160.chunk.js",
     "static/media/fletsy-logo.png": "/fletsy/static/media/fletsy-logo.2f127568fe14152a3dd8.png",
     "index.html": "/fletsy/index.html",
     "main.9f04d28e.css.map": "/fletsy/static/css/main.9f04d28e.css.map",
-    "main.d7206927.js.map": "/fletsy/static/js/main.d7206927.js.map",
+    "main.8b55436e.js.map": "/fletsy/static/js/main.8b55436e.js.map",
     "787.efc21160.chunk.js.map": "/fletsy/static/js/787.efc21160.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f04d28e.css",
-    "static/js/main.d7206927.js"
+    "static/js/main.8b55436e.js"
   ]
 }
