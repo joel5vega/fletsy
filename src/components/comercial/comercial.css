@@ -4,3 +4,10 @@
     color:var(--fondo);
     justify-content: center;
 }
+
+.solicitud{
+    background-color: var(--activo);
+    border-radius: 1rem;
+    margin:1rem;
+    padding:1rem;
+}

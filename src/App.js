@@ -2,7 +2,7 @@
 import './App.css';
 import { ReactDOM } from 'react';
 import React, { useState, useEffect } from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 import NavBar from './components/NavBar';
 import Home from './components/home/Home';
 import Footer from './components/Footer';
@@ -21,7 +21,7 @@ function App() {
 
   //  crear funcion que cambie el estado de show
   const setMenu = (event) => {
-    console.log(event)
+    // console.log(event)
     event.preventDefault();
     var mostrar = !show;
     setShow(mostrar);
@@ -29,20 +29,22 @@ function App() {
   return (
     <div className="body">
 
-      <BrowserRouter>
+      <BrowserRouter basename='/fletsy'>
         <div className='navbar'>
+
           <div className='home'>
-            <AiFillHome />
+            <Link to="/"><AiFillHome /></Link>
           </div>
+
           <div className="menu" onClick={setMenu} >
             <TiThMenu />
           </div>
         </div>
-
         {show && <Sidebar onClick={setMenu} />}
         <Routes>
 
-          <Route path="/" element={<Home />} />
+
+          <Route exact path="/" element={<Home />} />
           <Route path="/comercio/registrar" element={<RegistroComercio />} />
           <Route path="/transporte/registrar" element={<RegistroTransporte />} />
           <Route path="/transporte/oferta" element={<OfertaTransporte />} />

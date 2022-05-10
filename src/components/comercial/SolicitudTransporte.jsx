@@ -1,9 +1,25 @@
-import React from 'react'
-
+import React from "react";
+import Solicitud from "./Solicitud";
 function SolicitudTransporte() {
   return (
-    <div>SolicitudTransporte</div>
-  )
+    <div>
+      <h1>Solicitudes vigentes</h1>
+      <Solicitud
+        nombre="Solicitud 1"
+        capacidad="2"
+        requerimiento="Transporte"
+        origen="LP"
+        destino="OR"
+      />
+      <Solicitud
+        nombre="Solicitud 2"
+        capacidad="2"
+        requerimiento="Transporte"
+        origen="SCZ"
+        destino="LP"
+      />
+    </div>
+  );
 }
 
-export default SolicitudTransporte
+export default SolicitudTransporte;

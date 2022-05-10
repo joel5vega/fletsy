@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react";
 
 function MisPedidos() {
   return (
-    <div>MisPedidos</div>
-  )
+    <div>
+      <h1>MisPedidos</h1>
+      
+    </div>
+  );
 }
 
-export default MisPedidos
+export default MisPedidos;

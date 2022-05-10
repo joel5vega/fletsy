@@ -2,6 +2,8 @@ import React from "react";
 import Select from "../formulario/Select";
 import DataBolivia from "../../data/DataBolivia";
 import DataTransporte from "../../data/DataTransporte";
+import InfoEmpresa from "./InfoEmpresa";
+import { Link } from "react-router-dom";
 import "./transporte.css";
 import { FaTruck } from "react-icons/fa";
 import { BsTelephoneFill } from "react-icons/bs";
@@ -21,24 +23,11 @@ function OfertaTransporte() {
       <div className="lista">
         <h3>Ofertas disponibles</h3>
         {empresas.map((empresa) => {
-          return (
-            <div className="oferta" key={empresa.id}>
-              <div className="oferta__imagen">
-                <FaTruck />
-                {/* <img src={empresa.imagen} alt="logo" /> */}
-              </div>
-              <div className="oferta__datos">
-                <h4>
-                  {empresa.estado == "verificado" && <MdVerified />}
-
-                  {empresa.nombre}
-                </h4>
-              </div>
-              <div className="boton__secundario">
-                <BsTelephoneFill />
-              </div>
+          return(
+            <div key={empresa.id}>
+           <InfoEmpresa empresa={empresa} />;
             </div>
-          );
+          )
         })}
       </div>
     </section>
