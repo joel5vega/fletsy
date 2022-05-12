@@ -9,8 +9,8 @@ function Checklist(props) {
       <div className="checkbox">
         {options.map((option) => (
           <div key={option.id} className="checklist">
+            <input type="checkbox" name={option.id}></input>
             <div>{option.nombre}</div>
-            <input  type="checkbox" name={option.id}></input>
           </div>
         ))}
       </div>
