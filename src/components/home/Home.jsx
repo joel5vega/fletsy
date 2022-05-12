@@ -10,10 +10,10 @@ function Home(props) {
         <img className="logo" src={Logo} alt="Fletsy Logo" />
         <div className="botones">
           <Link to="/transporte/oferta">
-            <button className="boton__principal">Transporte</button>
+            <button className="boton__principal">Buscar flete</button>
           </Link>
           <Link to="/comercio/pedidos">
-            <button className="boton__secundario">Compras</button>
+            <button className="boton__secundario">Explorar pedidos</button>
           </Link>
         </div>
       </div>
