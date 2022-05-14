@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { FaTruck } from "react-icons/fa";
 import { BsTelephoneFill } from "react-icons/bs";
+import {RiSendPlane2Fill} from "react-icons/ri"
 import { MdVerified } from "react-icons/md";
 
 function InfoEmpresa(props) {
@@ -20,7 +21,7 @@ function InfoEmpresa(props) {
       </div>
       <div className="boton__secundario">
         <Link to="/comercio/registrar">
-          <BsTelephoneFill />
+          <RiSendPlane2Fill />
         </Link>
       </div>
     </div>

@@ -8,7 +8,7 @@ import Home from './components/home/Home';
 import Footer from './components/Footer';
 import RegistroComercio from './components/comercial/RegistroComercio';
 import RegistroTransporte from './components/transporte/RegistroTransporte';
-import OfertaTransporte from './components/transporte/OfertaTransporte';
+import BuscarTransporte from './components/transporte/BuscarTransporte';
 import SolicitudTransporte from './components/comercial/SolicitudTransporte';
 import MiCuenta from './components/comercial/MiCuenta';
 import MisPedidos from './components/comercial/MisPedidos';
@@ -47,7 +47,7 @@ function App() {
           <Route exact path="/" element={<Home />} />
           <Route path="/comercio/registrar" element={<RegistroComercio />} />
           <Route path="/transporte/registrar" element={<RegistroTransporte />} />
-          <Route path="/transporte/oferta" element={<OfertaTransporte />} />
+          <Route path="/transporte/oferta" element={<BuscarTransporte />} />
           <Route path="/comercio/pedidos" element={<SolicitudTransporte />} />
           <Route path="/comercio/micuenta" element={<MiCuenta />} />
           <Route path="/comercio/mispedidos" element={<MisPedidos />} />

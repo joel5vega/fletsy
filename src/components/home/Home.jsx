@@ -13,7 +13,7 @@ function Home(props) {
             <button className="boton__principal">Buscar flete</button>
           </Link>
           <Link to="/comercio/pedidos">
-            <button className="boton__secundario">Explorar pedidos</button>
+            <button className="boton__secundario">Ofrecer Flete</button>
           </Link>
         </div>
       </div>
