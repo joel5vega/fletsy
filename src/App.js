@@ -12,6 +12,7 @@ import BuscarTransporte from './components/transporte/BuscarTransporte';
 import SolicitudTransporte from './components/comercial/SolicitudTransporte';
 import MiCuenta from './components/comercial/MiCuenta';
 import MisPedidos from './components/comercial/MisPedidos';
+import ConfirmarPedido from './components/comercial/ConfirmarPedido';
 
 import Sidebar from './components/sidebar/Sidebar';
 import { TiThMenu } from "react-icons/ti";
@@ -51,6 +52,7 @@ function App() {
           <Route path="/comercio/pedidos" element={<SolicitudTransporte />} />
           <Route path="/comercio/micuenta" element={<MiCuenta />} />
           <Route path="/comercio/mispedidos" element={<MisPedidos />} />
+          <Route path="/comercio/confirmar" element={<ConfirmarPedido/>} />
         </Routes>
       </BrowserRouter>
       <footer>

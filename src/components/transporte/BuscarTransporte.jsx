@@ -14,7 +14,7 @@ function BuscarTransporte() {
       <div className="oferta__filtros">
         <Select label="Tipo de carga" options={tipos} />
         <Select label="Camión completo o compartido" options={["completo","compartido"]}/>
-        <Select label="Tipo de flete" options={["nacional","internacional","provincial"]}/>
+        <Select label="Tipo de flete" options={["nacional","internacional","provincial","local"]}/>
         <Select label="Origen" options={["La Paz","Cochabamba","Santa Cruz","Oruro","Potosi","Tarija","Chuquisaca","Beni","Pando"]}/>
         <Select label="Destino" options={["La Paz","Cochabamba","Santa Cruz","Oruro","Potosi","Tarija","Chuquisaca","Beni","Pando"]}/>
         <Select label="Capacidad" options={["Volumen (m3)","Peso (T)"]}/>
@@ -25,7 +25,7 @@ function BuscarTransporte() {
         {empresas.map((empresa) => {
           return(
             <div key={empresa.id}>
-           <InfoEmpresa empresa={empresa} />;
+           <InfoEmpresa empresa={empresa} />
             </div>
           )
         })}

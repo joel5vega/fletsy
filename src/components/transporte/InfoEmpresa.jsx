@@ -20,7 +20,7 @@ function InfoEmpresa(props) {
         </h4>
       </div>
       <div className="boton__secundario">
-        <Link to="/comercio/registrar">
+        <Link to="/comercio/confirmar">
           <RiSendPlane2Fill />
         </Link>
       </div>

@@ -94,3 +94,9 @@ label {
   max-width: 90%;
   
 }
+.leaflet-container {
+  width: 60vw;
+  height: 30vh;
+  border-radius: 2rem;
+  padding: 2rem;
+}
