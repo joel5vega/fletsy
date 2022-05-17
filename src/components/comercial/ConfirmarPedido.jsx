@@ -11,11 +11,12 @@ const pedido =
       <Pedido pedido={pedido}/>
      
       <div className="dato">
+      <label>Número de contacto</label>
         <input type="text" placeholder="Número de contacto" />
       </div><div className="dato">
        <label>Punto de recojo & entrega </label>  <MapView />
       </div>
-      <label>Número de contacto</label>
+    
       
       <div className="boton__secundario" type="submit">Confirmar</div>
     </div>

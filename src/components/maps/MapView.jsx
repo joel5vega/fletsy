@@ -11,7 +11,7 @@ const position = [-17.38, -66.17];
 const MapView = () => {
   return (
     <div className="mapa">
-      <MapContainer center={position} zoom={6} scrollWheelZoom={true}>
+      <MapContainer center={position} zoom={6} scrollWheelZoom={false}>
         <TileLayer
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
