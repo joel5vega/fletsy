@@ -1,6 +1,6 @@
 .sidebar{
-    background:var(--primario);
-    color:var(--fondo);
+    background:var(--activo);
+    color:var(--primario);
     padding: 1rem;
     display: flex;
     flex-direction: column;
@@ -18,5 +18,11 @@ Link{
     color:var(--fondo)
 }
 .opcion{
-    color:var(--fondo);
+    color:var(--primario);
+    font-size: 1.5rem;
+    padding: 0.5rem;
+}
+.opcion:hover{
+    color:var(--activo);
+    background-color: var(--primario);
 }

@@ -6,7 +6,7 @@
 }
 .oferta{
     /* background-color: var(--activo); */
-    color:var(--primario);
+    /* color:var(--primario); */
     display: flex;
     gap:1rem;
     justify-content: center;
@@ -14,4 +14,15 @@
     border:1px solid transparent;
     border-radius: 0.5rem;
     padding:0.5rem;
+}
+.oferta__filtros{
+    /* background: var(--primario); */
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1rem;
+    
+}
+.buscar__transporte {
+    display: flex;
+    flex-direction: column;
 }

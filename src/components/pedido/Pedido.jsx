@@ -1,19 +1,44 @@
 import React from "react";
-
+import "./pedido.css";
 function Pedido(props) {
-  var { id, transporte_id, comercio_id, origen, destino } = props.pedido;
+  var { id, transporte_id, comercio_id,cotizacion, origen, destino,capacidad, tipo,estado } = props.pedido;
   return (
-    <>
+    <div className="pedido">
       <h3>Pedido #{id}</h3>
-      <label>Transportadora</label>
-      <div className="dato">{transporte_id}</div>
-      <label>Comercio</label>
-      <div className="dato">{comercio_id}</div>
-      <label>Origen</label>
-      <div className="dato"> {origen}</div>
-      <label>Destino</label>
-      <div className="dato">{destino}</div>
-    </>
+      <div className="pedidos_datos">
+        <div className="dato">
+          <label>Transportadora</label>
+          {transporte_id}
+        </div>
+        <div className="dato">
+            <label>Cotización</label>
+            {cotizacion}
+        </div>
+        {/* <div className="dato">
+          <label>Comercio</label>
+          {comercio_id}
+        </div> */}
+        <div className="dato">
+          <label>Origen</label> {origen}
+        </div>
+        <div className="dato">
+          <label>Destino</label>
+          {destino}
+        </div>
+        <div className="dato">
+          <label>Tipo</label>
+          {tipo}
+        </div>
+        <div className="dato">
+          <label>Capacidad</label>
+          {capacidad}
+        </div>
+        <div className="dato">
+          <label>Estado:</label>
+          {estado}
+        </div>
+      </div>
+    </div>
   );
 }
 

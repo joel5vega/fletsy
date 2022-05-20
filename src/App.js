@@ -32,12 +32,10 @@ function App() {
 
       <BrowserRouter basename='/fletsy'>
         <div className='navbar'>
-
-          <div className='home'>
+          <div className='boton__home'>
             <Link to="/"><AiFillHome /></Link>
           </div>
-
-          <div className="menu" onClick={setMenu} >
+          <div className="boton__menu" onClick={setMenu} >
             <TiThMenu />
           </div>
         </div>
@@ -52,7 +50,7 @@ function App() {
           <Route path="/comercio/pedidos" element={<SolicitudTransporte />} />
           <Route path="/comercio/micuenta" element={<MiCuenta />} />
           <Route path="/comercio/mispedidos" element={<MisPedidos />} />
-          <Route path="/comercio/confirmar" element={<ConfirmarPedido/>} />
+          <Route path="/comercio/confirmar" element={<ConfirmarPedido />} />
         </Routes>
       </BrowserRouter>
       <footer>

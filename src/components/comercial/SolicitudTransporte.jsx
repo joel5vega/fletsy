@@ -2,7 +2,7 @@ import React from "react";
 import Solicitud from "./Solicitud";
 function SolicitudTransporte() {
   return (
-    <div>
+    <section>
       <h1>Solicitudes vigentes</h1>
       <Solicitud
         nombre="Solicitud 1"
@@ -18,7 +18,7 @@ function SolicitudTransporte() {
         origen="SCZ"
         destino="LP"
       />
-    </div>
+    </section>
   );
 }
 
