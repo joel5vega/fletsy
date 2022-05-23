@@ -1,28 +1,38 @@
-.transporte{
-    background-color: var(--primario);
-    padding: 1rem;
-    color:var(--fondo);
-    justify-content: center;
+.transporte {
+  background-color: var(--primario);
+  padding: 1rem;
+  color: var(--fondo);
+  justify-content: center;
 }
-.oferta{
-    /* background-color: var(--activo); */
-    /* color:var(--primario); */
-    display: flex;
-    gap:1rem;
-    justify-content: center;
-    align-items: center;
-    border:1px solid transparent;
-    border-radius: 0.5rem;
-    padding:0.5rem;
+.oferta {
+  /* background-color: var(--activo); */
+  /* color:var(--primario); */
+  display: flex;
+  flex-direction: row;
+  gap:1rem;
+  padding: 0.5rem ;
+  border: 1px solid transparent;
+  flex-basis: auto;
 }
-.oferta__filtros{
-    /* background: var(--primario); */
-    display: flex;
-    flex-wrap: wrap;
-    padding: 1rem;
-    
+.oferta__imagen {
+  /* background-color: red; */
+  width: 2rem;
+  width: 7%;
+}
+.oferta__datos{
+    width: 80%;
+    background-color: beige;
+}
+.oferta__filtros {
+  /* background: var(--primario); */
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1rem;
+}
+.oferta__Cta{
+    width: 7%;
 }
 .buscar__transporte {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }

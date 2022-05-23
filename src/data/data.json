@@ -1,0 +1,1423 @@
+  {
+    img: "../images/fondolistados.png",
+    title: "AGENCIA DESPACHANTE DE ADUANA RCB",
+    address:
+      "Av. Santos Dumont C/abapo Nº 18 Barrio Braniff Zona Sur 2do-3er An., Santa Cruz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "AGILITY BOLIVIA",
+    address:
+      "Edif. Tamaki Pb Of.1 Calle Moldes Esq. Cochabamba, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "ALMACENERA BOLIVIANA",
+    address: ", La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "ALMACENES PACIFICIO SUR LA PAZ",
+    address:
+      "Avenida Ballivian, Calle No 12, 7900, Edificio Penalosa, La Paz , Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "ALMACENES PACÍFICO SUR SANTA CRUZ DE LA SIERRA",
+    address:
+      "4to Anillo Entre Av. San Martín Y Canal Isuto,  Edificio Torre Duo Piso 10 Oficina 10c, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "ALTRASER",
+    address: "Parque Industrial, Manzano 5 , Santa Cruz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/amerijet-international-inc-c-o-cargolog-bolivia-logo_11829_220302083459.png",
+    title: "AMERIJET INTERNATIONAL INC. C / O CARGOLOG BOLIVIA",
+    address:
+      "Aeropuerto Internacional De El Alto Santa Cruz, El Alto Santa Cruz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "ANDEAN LTDA.",
+    address:
+      "Av. 20 De Octubre 2601. Edificio Julia Elena Piso 2, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "ANDES LOGISTICS",
+    address: "Equipetrol Norte Uv-59 Mza-55, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "ANDEX BOX CORP.",
+    address:
+      "Av. Julio Patiño # 721 Entre 13 Y 14 De Calacoto - Zona Sur, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/-logo_9391_220302090029.png",
+    title: "ASOCIACIÓN BOLIVIANA DE ASEGURADORES (ABA)",
+    address:
+      "Calle Loayza N° 250  Edificio Castilla, 5° Piso, Oficina 510,  La Paz , Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "ASOCIACIÓN DE AGENTES DE CARGA BOLIVIA",
+    address:
+      "Avenida 6 De Agosto # 2286 ( Altos Cine 6 De Agosto) 3er Piso, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "ATC AVIATION SERVICES LA PAZ",
+    address:
+      "Pacific Feeder Services Bolivia. Calle Presbítero Sebastian Figueroa 205 Achumani, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "ATC AVIATION SERVICES SANTA CRUZ",
+    address:
+      "Pacific Feeder Services Bolivia. Aeropuerto Internacional Viru Viru Seccion Carga - Bodega 7, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "AVIANCA CARGO",
+    address: ", Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "AVIANCA CARGO",
+    address: ", La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "BEGUI CARGO",
+    address: "C. 21 # 8315 Ed. Murano Of. 5 Y 6 Pb, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "BEST SERVICES LOGISTICS INTERNACIONAL",
+    address:
+      "Canal Isuto Entre 3er Y 4to Anillo Edificio Claro Luna  #202, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "BLAZER BOLIVIA",
+    address:
+      "Av. San Antonio No 220, Barrio España, Zona La Pampa, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "BLUE LINE INTERNATIONAL FORWARDER",
+    address: "Av. 18 De Mayo 4675, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "BLUE REPRESENTACIONES",
+    address: "Ciudad Satelite Nro.1192,  La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "BOA  CARGO",
+    address:
+      "Aeropuerto Internacional El Alto Sección Carga El Alto, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "BOA  CARGO (VVI)",
+    address:
+      "Aeropuerto Viru Viru Sección Carga Santa Cruz, Santa Cruz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "BOA CARGO EXPRESS",
+    address:
+      "Aeropuerto Viru Viru Sección Carga , Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/6895-20190822061048.png",
+    title: "MULTIMODAL SERVICES/MODALTRANS",
+    address: "Radial 26 No. 4370 , Santa Cruz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/munguia-romero-abogados-especialistas-transporte-terreste-multimodal-logo_12271_220303102430.png",
+    title:
+      "MUNGUIA ROMERO ABOGADOS ESPECIALISTAS TRANSPORTE TERRESTE MULTIMODAL",
+    address: "Av Heroinas 477, Cochabamba, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/3517-20190820110052.png",
+    title: "NAVELOGIC HEAVY LIFT",
+    address: "P.o. Box 2627 Av. Miguel De Cervantes 27, Santa Cruz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/-logo_11999_210215035246.png",
+    title: "NAVILLUS LOGISTICS",
+    address:
+      "Calle Las Begonias N°43, Barrio Sirari, , Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "NEW LIFE TRANSPORT",
+    address:
+      "Av. Diego De Portugal Nro.1192 Ciudad Satelite , La Paz El Alto, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "OCEANDINA WORLDWIDE LOGISTICS",
+    address: "Calle Federico Suazo # 1885, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "OCEANLINK BOLIVIA",
+    address:
+      "Av. Montenegro Esquina Claudio Aliaga, Bloque H-13 Local 6 San Miguel 3, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "OLA CARGO",
+    address: "Av. 6 De Marzo Km 3 Of. 219 (aduana Interior), La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "ONE SHIPPING-OCEAN NETWORK EXPRESS LA PAZ",
+    address:
+      "Mercator Bolívia. Calle 9 De Calacoto Esq. Sanchez Bustamante - Edificio Vitruvio Ii Piso 5 Of. K , La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "ONE SHIPPING-OCEAN NETWORK EXPRESS SANTA CRUZ",
+    address: "4to. Anillo Edificio Torre Duo P.6 Of. B , Santa Cruz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "ONE WORLD LOGISTICS",
+    address: "Equipetrol Norte St G No 183 , Santa Cruz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "ORBE",
+    address: "Av. Canal Cotoca 824, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "OTM GROUP",
+    address:
+      "Avenida Mariscal Santa Cruz Edificio La Primera Bloque A Piso 13 Oficina 4, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "OTM LOGISTICS GROUP",
+    address:
+      "Avenida Mariscal Santa Cruz, Edificio La Primera, Bloque A, Piso 13 Of. 4, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "PLUSCARGO BOLIVIA ",
+    address:
+      "Avenida Los Cusis 2080, Edificio Matt, Planta Baja, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/profit-cargo-logo_6606_220303102943.png",
+    title: "PROFIT CARGO",
+    address:
+      "Calle Yanacocha Ed. Shopping Norte Piso 8 Of. 802, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "QPS LINE",
+    address:
+      "Guardia Vieja 255, Piso 9, Oficina 913, Edificio Europa Providencia, Santiago De Chile, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "QUIROGA QUIROGA CRESPO AGENCIA DE ADUANAS",
+    address:
+      "Calle Pasillo Landivar 3er Anillo Interno N° 5, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "R&M CONSOLIDADORA Y DESCONSOLIDADORA ",
+    address:
+      "Av. Pauserna #1 Av. Guapay (zona Este Canal Cotoca), Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/rawa-logistic-logo_9962_220303104625.png",
+    title: "RAWA LOGISTIC ",
+    address:
+      "Calle Yacuma Y Trinidad  Primer Anillo 15b, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "REMAC CARGO",
+    address:
+      "Calle Rosendo Gutiérrez Esq. Av Arce | Edificio Multicentro Torre B, Piso 5 Of. 502, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/d2dc493f74e8f63242949f5e31adceb4.jpg",
+    title: "RIHOLOGISTICA ",
+    address: "Calle Chiquitos # 36, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/37a545fb33a72a37c06eb26f4d7c7451.png",
+    title: "ROSANIEL SRL",
+    address: "Calle Calama No 59 , Santa Cruz De La Sierra , Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "S&V ASOCIADOS",
+    address:
+      "Barrio Totai Calle, Juan Zarraga Campos #3110, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "HAPAG LLOYD BOLIVIA",
+    address:
+      "Edif. Torre Duo, Of. 1c, 1er Piso Cuarto Anillo 4200, Equipetrol Norte, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "HELLMANNS WORLDWIDE LOGISTICS/INBOLCARGO BOLIVIA",
+    address:
+      "Av. Cristo Redentor 6500 Ed. Saavedra Suarez 3th Piso , Of. 10, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "HERMES TRANS",
+    address:
+      "Av. 16 De Julio #1800 Ed. Cosmos, Piso 11 Of.3 Prado - Central, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "HERNAL TRANSPORT",
+    address:
+      "Calle 3 Nº. 573, Zona Santiago Segundo, El Alto La Paz, , Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "HYDRO TRANS MITA",
+    address: ", La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "IMEX GROUP BOLIVIA",
+    address:
+      "2do. Piso Oficinas 201 Y 202, Ed. El Álamo, Sobre La Av. Noel Kempff Mercado , Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "IMPORTADOR: AGENCIAS GENERALES (AGSA) COBIJA",
+    address: "Av. 9 De Febrero #192, Cobija, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "IMPORTADOR: AGENCIAS GENERALES (AGSA) COCHABAMBA",
+    address:
+      "Calle Bolivar Entre Av. San Martín Y Lanza E-520, Cochabamba, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "IMPORTADOR: AGENCIAS GENERALES (AGSA) EL ALTO",
+    address:
+      "Calle 13 # 270, Entre Av. 6 De Marzo Y Av. Alfredo Franco Valle, El Alto, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "IMPORTADOR: AGENCIAS GENERALES (AGSA) LA PAZ",
+    address: "Av Muñoz Reyes, , La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "IMPORTADOR: AGENCIAS GENERALES (AGSA) ORURO",
+    address: "Av. 6 De Agosto Y 1ro De Noviembre, Oruro, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "IMPORTADOR: AGENCIAS GENERALES (AGSA) POTOSI",
+    address: "Calle Ca Matos #19, Potosí, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "IMPORTADOR: AGENCIAS GENERALES (AGSA) QUILLACOLLO",
+    address: "Av. Eneral Pando Esq. E Final Prado, Quillacollo, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "IMPORTADOR: AGENCIAS GENERALES (AGSA) SANTA CRUZ",
+    address: "Av. Cañoto #67 , Santa Cruz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "IMPORTADOR: AGENCIAS GENERALES (AGSA) SANTA CRUZ AV. BRASIL",
+    address: "Av. Brasil Y Calle Rio De Janeiro #2250, Santa Cruz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "IMPORTADOR: AGENCIAS GENERALES (AGSA) SANTA CRUZ MONTERO",
+    address: "Av. Circunvalación Esquina Montero, Santa Cruz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "IMPORTADOR: AGENCIAS GENERALES (AGSA) SANTA CRUZ NORTE",
+    address:
+      "Av. 25 De Febrero Entre 5to Y 6to Anillo Carr. Al Norte Km. 4, Santa Cruz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "IMPORTADOR: AGENCIAS GENERALES (AGSA) SUCRE",
+    address: "Av. Ostria Gutierrez #137, Sucre, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "IMPORTADOR: AGENCIAS GENERALES (AGSA) TRINIDAD",
+    address:
+      "Av. Santa Cruz N° 371 Entre A. 6 De Agosto Y Calle La Paz, Trinidad, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/75a6fdb9e03fa02bb1bfb572ee69f751.jpg",
+    title: "IMPORTADORA HONGBOL S.R.L.",
+    address: "Av. Carlos Medinacelli 650, Cochabamba, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "INBOLPACK ",
+    address:
+      "Carretera Al Norte Km9 Entrada Al Condominio Versalles, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "INGENIERIA DE TRANSPORTES",
+    address:
+      "Zona Sur, Calacoto Calle 15 Torre Ketal Piso 2, Of. 224, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/inserlog-logo_7164_220302111631.png",
+    title: "INSERLOG ",
+    address:
+      "Dorbigni  N. 1656 Ed. Seis Cielos Piso 1 Dep. 1a, Cochabamba, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "INSTITUTO BOLIVIANO DE COMERCIO EXTERIOR (IBCE)",
+    address:
+      "Av. La Salle 3-g (canal Isuto, Casi 2do. Anillo) Santa Cruz, , Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "SAN LUIS EXPRESS",
+    address: ", La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "SANTA CRUZ TRANSPORTES COLIGADOS",
+    address:
+      "Calle Guayaramerin 2560, Manzana 24 Entre 2do Y 3er Anillo, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "SCHARFF BOLIVIA ",
+    address: "Av. 20 De Octubre Nº 2619, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "SEABOARD MARINE BOLIVIA",
+    address:
+      ": Consorcio Naviero Boliviano. Av. Hernando Siles Nº 5567, Edif. Angelita, Piso 2  Entre Calles 9 Y 10 , Obrajes  La Paz, Bolivia P.o. Box 10866, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "SHIPPING SERVICES BOLIVIA",
+    address:
+      "Av. Arequipa No. 8221, Shopping Sur Nivel 1 - Of. 3 - La Florida, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "SIC & LOGISTICA ",
+    address:
+      "Av. Hernando Siles, Calle 16, Edif. Le 16, Zona Obrajes, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/7364-20190822054755.png",
+    title: "SIC & LOGISTICA S.R.L.",
+    address: "Obrajes Calle 16 Edificio Le16 Piso 1 Oficina 3, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "SIG LOGISTICS",
+    address: "Ed. San Antonio P.1 Of. 102, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "SISTEMA GENERAL DE TRANSPORTES (SGT)",
+    address: "Av. Ecuador 2650, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "SOBOCE",
+    address: ", La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "SOC DE TRANSPORTES Y ENCOMIENDAS SPEED CARGO",
+    address: "Paseo Huérfanos 863 Of. 819, Santiago De Chile, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/super-line-logistics-bolivia-logo_5699_220303021739.png",
+    title: "SUPER LINE LOGISTICS BOLIVIA",
+    address: "Avenida 6 De Marzo No. 554; Piso 4; Depto. 4, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "SUR CARGO",
+    address:
+      "C. Pedro Salazar Nº 615, Edif. María Inmaculada, Piso 3 , Of. 3a, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "TOTAL QUALITY LOGISTICS/C.H. ROBINSON BOLIVIA",
+    address: "Av. Beni, Calle 7 Oeste #7, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "TRANS CARRIVER SERVICES",
+    address: ", La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/trans-global-logo_4462_220303031114.png",
+    title: "TRANS GLOBAL",
+    address:
+      "Calle Moldes Esquina Cochabamba, Edificio Tamaki Pb Of. 1, Santa Cruz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "TRANS SALVATIERRA HEAVY LIFT",
+    address: "Santa Cruz, Bolivia, Santa Cruz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "TRANS. MATTOS",
+    address: ", La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "TRANSBOLCRUZ",
+    address:
+      "Calle Cochabamba Esq. Saavedra, Torres Cainco Piso 10, Of. 3, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "TRANSORIENTE ",
+    address: "Av. El Trompillo No. 573 , Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/transportadora-rashel-logo_11963_220303032003.png",
+    title: "TRANSPORTADORA RASHEL",
+    address: "Salamanca N 270, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "TRANSPORTE DE CARGA J.N.G.",
+    address:
+      "Transporte De Carga Nacional E Internacional. Cuarto Anillo Entre Paragua Surtidor Urkupina , Santa Cruz De La Sierra , Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "TRANSPORTE HARUHIKO ",
+    address:
+      "Av. Virgen De Cotoca 4to Anillo, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/a761202105c8d634fabbae4ae93883e7.jpg",
+    title: "TRANSPORTE JNG",
+    address:
+      "Calle Calama No 59 Esquina Cobija Uv125 Santa Cruz Bolivia , Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "BOLIVIAN GROUP",
+    address:
+      "Av. 20 De Octubre # 2396, Edif. Maria Haydee, Piso 11, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "BOLIVIAN GROUP",
+    address:
+      "Barrio 12 De Octubre C. Prof. Maximiliano N° 100, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "BOLIVIAN INTERMODAL CONTAINER LINES",
+    address:
+      "Av. 20 De Octubre 2601 Edificio Julia Elena. Piso 2, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "BROOM BOLIVIA",
+    address:
+      "Av. Federico Zuazo 1598, Piso Ph, Edificio Park Inn, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "CÁMARA DE EXPORTADORES DE LA PAZ",
+    address: "Av. Arce Esq. Goitia Nro. 2021, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/3135-20190820103959.png",
+    title: "CÁMARA NACIONAL DE DESPACHANTES DE ADUANA",
+    address:
+      " C. Campos # 265 Entre 6 De Agosto Y Arce  La Paz, , La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title:
+      "CÁMARA REGIONAL DE DESPACHANTES DE ADUANAS DE SANTA CRUZ DE LA SIERRA",
+    address: "Ballivián #911, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "CARGOCOM BOLIVIA",
+    address:
+      "Av. Noel Kempff Mercado No. 1253 Edificio Centro Medico Norte Piso 2 Of. 202, Santa Cruz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "CARICO BOLIVIA",
+    address:
+      "Avenida Kyllman, Centro Logístico De Comercio Exterior, Antigua Terminal De Aeropuerto Cbba, Cochabamba, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "CEVA/ARGES BOLIVIA",
+    address:
+      "Galería Los Arcos, Local Nº 23 / Calle Buenos Aires Nº 338, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "CHINA SHIPPING BOLIVIA",
+    address:
+      "Centro Comercial Norte Planta Alta , Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "CMA CGM BOLIVIA",
+    address:
+      "Av. Busch Entre Segundo Y Tercer Anillo - Condominio Macororó # 8 Piso 15 Of. 5 , Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "COMINTER",
+    address: "Av. Virgen De Cotoca # 994, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "CONSORCIO NAVIERO BOLIVIANO",
+    address:
+      "Av. Hernando Siles Nº 5567, Edif. Angelita, Piso 2  Entre Calles 9 Y 10 , Obrajes, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/copa-cargo-santa-cruz-de-la-sierra-bolivia-logo_11990_220302095147.png",
+    title: "COPA CARGO SANTA CRUZ DE LA SIERRA BOLIVIA",
+    address:
+      "Calle Sucre Esq. 24 De Septiembre Edificio La Pascana Santa Cruz De La Sierra, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "CORMAQ HEAVY LIFT",
+    address: "Santa Cruz, Bolivia, Santa Cruz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "COSCO BOLIVIA",
+    address:
+      "Representaciones Navieras Bolivia. Calle H Ferrecio 1154, Piso 5 Calacoto, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "COTRAINCO, COOP. DE TRANSPORTE INTERNACIONAL",
+    address: "Av. 27 De Agosto 0-580, Cochabamba, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/-logo_9491_220302100223.png",
+    title: "COURRIERS INTER-ESPAÑA",
+    address:
+      "Calle René Moreno Nº299 Esquina Calle Parí, Edificio Don Alcides Planta Baja Oficina Nº124, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/ctrans-logo_9466_220302100837.png",
+    title: "CTRANS",
+    address:
+      "Calle Hernan Ardaya Paz # 20, Barrio Abaroa, Zona Equipetrol Este, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "CUMBRE",
+    address:
+      "4° Anillo Esq. Dra. Maria De Boland, Edificio Platinum, Piso 17-18, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "DAFER CARGO & LOGISTICS",
+    address: "Avenida 9 De Abril 1195, Cochabamba, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "DEL MAR SHIPPING COCHABAMBA",
+    address: "Plaza 14 De Septiembre, Suite 0221, Cochabamba , Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "DEL MAR SHIPPING LA PAZ",
+    address:
+      "Federico Suazo Esq Bueno, Edificio Park Inn, Oficinas 81, Piso 8, La Paz , Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "INTERCOMEX",
+    address:
+      "Calle Arenales No. 1226 Casilla De Correo 2477, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/italfreight-logo_10827_220302112434.png",
+    title: "ITALFREIGHT",
+    address:
+      "C/cañada Strongest # 352, Edificio Suto' Of. L-2 , Santa Cruz De La Sierra , Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "J F KENNEDY INTERNATIONAL AIRPORT",
+    address: "Km 13.5 Carretera Transpeninsular , La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/j-f-transport-and-logistics-logo_6894_220302113400.png",
+    title: "J&F TRANSPORT AND LOGISTICS",
+    address: "Av Satelite Nro 602 Ciudad Satelite El Alto , La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "JET EXPRESS",
+    address: ", La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/jetstar-cargo-logistics-srl-logo_10582_220303030037.png",
+    title: "JETSTAR CARGO LOGISTICS SRL",
+    address:
+      "San Miguel, Av. Montenegro Edif. Lolita Piso 2 Of. 4 (a Lado De La Tienda Victoria Secret), La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "KELLYUNMAR",
+    address: "Kellyunmar, Garhoud, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "KUEHNE + NAGEL",
+    address: "Av. San Martin, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "LATAM CARGO BOLIVIA",
+    address: "Ed. 16 De Julio, Piso 1 Of. 104, El Prado, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/17984-20210930024004.png",
+    title: "LOGISTA ",
+    address: "641 Bolivar St., Santa Cruz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "LOZADA TRANSPORT",
+    address: "Av. Banzer Km. 5 ½, Santa Curz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/lsp-bolivia-la-paz-logo_6741_220302114757.png",
+    title: "LSP BOLIVIA LA PAZ",
+    address:
+      "Av. Arce #2993 Esq. 6 De Agosto, Zona San Jorge, Oficinas Acb (automóvil Club Boliviano) Piso 2, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/6854-20190325115800.png",
+    title: "LSP BOLIVIA SUCURSAL SANTA CRUZ",
+    address:
+      "Av. Alemana Calle Barreras #3620 Edificio Pitajaya Piso 2 Oficina 201, Santa Cruz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "MACCAFERRI DE BOLIVIA",
+    address:
+      "Carretera A Pailon S/n Zona Barrio Campanero Cotoca, Santa Cruz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "MAERSK LINE LA PAZ",
+    address:
+      "Edificio Vitruvio Ii Calle 9 De Calacoto Esq. Sanchez Bustamante Piso 4 - Oficina K , La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "MAERSK LINE SANTA CRUZ",
+    address:
+      "Torre Duo Cuarto Anillo #4200 3rd Floor Office C Equipetrol Norte, Santa Cruz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "MASTERLINE GROUP BOLIVIA",
+    address: "Edif. Fortaleza, Piso 12 Y 14. Av. Arce #2799, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "MERCATOR LA PAZ",
+    address:
+      "Calle 23 De Calacoto, Av. Ballivian Nro 1578 Edificio Torre Cesur Piso 2 Of. 207 , La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "MERCATOR SANTA CRUZ",
+    address: "4to. Anillo Edificio Torre Duo P.6 Of. B, Santa Cruz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "METROLOGISTIKA",
+    address:
+      "Av. 20 De Octubre No. 2255 Edificio Renacer Piso 1 Oficina 5, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "MITSUI OSK LINES BOLIVIA",
+    address:
+      "Av. 20 De Octubre #2601 Edifico Julia Elena Primer Piso, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/modetrans-logo_4426_220303095751.png",
+    title: "MODETRANS",
+    address:
+      "Zona Pedro Domingo Murillo, Av. Néstor Galindo, N° 3014, Entre Calle José Manuel Tames El Alto, Bolivia , Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "MSC BOLIVIA",
+    address: "20th Street, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "MSC LA PAZ",
+    address: "730, Julio Patino Avenue, Calacoto , La Paz , Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/puerto-seguro-srl-logo_18189_220514120721.png",
+    title: "PUERTO SEGURO, SRL",
+    address: "Calle Sucre No. 663, Edificio Fénix., Santa Cruz  , Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/redlines-group-bolivia-logo_5929_220516024415.jpg",
+    title: "REDLINES GROUP BOLIVIA",
+    address:
+      "Calle Cochabamba Esq. Saavedra Torres Cainco Piso 7 Of. 3, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/seguros-illimani-sa-logo_9394_220513030845.png",
+    title: "SEGUROS ILLIMANI S.A.",
+    address:
+      "Calle Loayza Nº 233 Edif. Mariscal De Ayacucho Piso 10 Of. 1005, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/seguros-y-reaseguros-credinform-international-logo_9393_220303110525.png",
+    title: "SEGUROS Y REASEGUROS CREDINFORM INTERNATIONAL",
+    address: "Calacoto, C. Julio Patiño N° 550 Esq. C. 12, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/sunrise-autoparts-srl-logo_18203_220519022551.jpg",
+    title: "SUNRISE AUTOPARTS ,SRL",
+    address:
+      "Barrio Cataluña, Calle Destroyers S/n A 50 Mts De La Avenida Banzer Entre 8vo Y 9no Anillo. Zona Norte, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/termodinamica-ltda-logo_18201_220518084224.png",
+    title: "TERMODINAMICA LTDA",
+    address:
+      "Av. Villazon Nº 3671 (km 3, Carretera A Sacaba) - Cochabamba, Bolivia, Cochabamba, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/total-bolivian-moving-srl-logo_18208_220521013856.jpg",
+    title: "TOTAL BOLIVIAN MOVING, S.R.L",
+    address: "Av. Sánchez Lima Torre Codes - Piso 14b , La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/trans-canela-srl-logo_18186_220512100101.png",
+    title: "TRANS CANELA, SRL.",
+    address: " Calle General Pando Nro. 119, Quillacollo, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/transcontinental-srl-logo_18187_220513012502.png",
+    title: "TRANSCONTINENTAL, SRL",
+    address: "Lizárraga #150 Entre Catacora Y Velazco Galvarro, Oruro, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/transportes-bolivia-logo_18171_220510052636.png",
+    title: "TRANSPORTES BOLIVIA SA",
+    address: "Calle Colon 336 , 1º Piso  , Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/transportes-valverde-srl-logo_18170_220509100849.png",
+    title: "TRANSPORTES VALVERDE, SRL",
+    address:
+      "Urbanizacion Jardin Latino Calle 3, Aranjuez No.95, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/-logo_18196_220517094257.png",
+    title: "UNAGRO SA  (UNION AGROINDUSTRIAL DE CAÑEROS)",
+    address:
+      "Av. Unagro Final S/n, Barrio Unagro, Minero, Obispo Santisteban., Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: " AGENCIA DESPACHANTE DE ADUANA ARG",
+    address: "Av. Teniente Wvega, 308, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "A&R JACARANDA",
+    address:
+      "Prolongación Ballivián No. 927, A Cuadra Y ½ Pasando El Primer Anillo , Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/308e1f20c96c35954921860986145f3d.jpg",
+    title: "A-CIEN SRL ",
+    address: "Calle Rene Crespo No 115, Cochabamba- Quillacollo, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "A. HARTRODT BOLIVIA",
+    address:
+      "Calle Dr. Jaime Roman Casi Esq. Tercer Anillo Ext. Condominio Madrid P-2, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "A.R. LOGISTICS BOLIVIA",
+    address:
+      "Av. 16 De Julio (el Prado) No. 1479, Edif. San Pablo, Piso 14, Of. 1405, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "ACHES",
+    address:
+      "Segundo Anillo, Av. Piraí No 280, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title:
+      "ADMINISTRACION DE AEROPUERTOS Y SERVICIOS AUXILIARES A LA NAVEGACION AEREA",
+    address: "Calle Reyes Ortiz Esq. Federico Suazo #74, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "ADMINISTRACIÓN DE SERVICIOS PORTUARIOS",
+    address: "Lisímaco Gutiérrez N°. 342 - Z. Sopocachi, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "ADUANA NACIONAL DE BOLIVIA",
+    address:
+      " Av. 20 De Octubre Nro. 2038 Entre C. Juan Jose Perez Y Aspiazu, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/advance-line-logo_11932_220302081157.png",
+    title: "ADVANCE LINE",
+    address:
+      "Av. 6 De Marzo, Palestina Bldg 4th Floor, 3 Street,12 De Octubre Zone. El Alto, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/aerolineas-cargo-bolivia-logo_3128_220302083023.png",
+    title: "AEROLINEAS CARGO BOLIVIA",
+    address:
+      "Aeropuerto Internacional De Viru Viru // Terminal De Cargas, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "AEROPUERTO INTERNACIONAL VIRU VIRU",
+    address: "Carretera Al Norte , Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/alvaro-perez-logistica-transporte-logo_18172_220511030515.jpg",
+    title: "  ALVARO PEREZ LOGISTICA & TRANSPORTE",
+    address:
+      "Av. 20 De Julio Esquina Av. Hilbo #100, Zona Kenko., El Alto, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/alanoca-ltda-logo_18182_220511080733.jpg",
+    title: "ALANOCA LTDA.",
+    address: "Villa Bolívar b Calle 104 No. 100, El Alto, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/-logo_9392_220513015240.png",
+    title: "ALIANZA COMPAÑÍA DE SEGUROS Y REASEGUROS ",
+    address: "Av. 20 De Octubre N° 2680 Esq. Campos, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/andean-bolivia-corporation-logo_14372_220516071401.png",
+    title: "ANDEAN BOLIVIA CORPORATION",
+    address:
+      "Corporación Valle Andino Sede Central Av. Panamericana #1959, Rio Seco, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/bisa-seguros-logo_18188_220513091547.png",
+    title: "BISA SEGUROS",
+    address: "Av. El Trompillo 632, Santa Cruz De La  Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/bolivian-express-cargo-srl-logo_12051_220302092608.png",
+    title: "BOLIVIAN EXPRESS CARGO SRL",
+    address: "Av. Vasquez ,calle 2, #145 Zona Pura , Pura, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/bolivian-movers-logo_18204_220519073029.png",
+    title: "BOLIVIAN MOVERS, S.R.L",
+    address:
+      "Av. Saavedra No. 2086, Miraflores, La Paz, Bolivia, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/cooperativa-de-transporte-internacional-cochabamba-23-de-marzo-rl-logo_13520_220510025901.png",
+    title:
+      "COOPERATIVA DE TRANSPORTE INTERNACIONAL COCHABAMBA 23 DE MARZO R.L.",
+    address:
+      "Av. Mutualista Calle 22 , No. 3135, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/delta-cargo-srl-logo_18169_220509090254.png",
+    title: "DELTA CARGO,SRL.",
+    address:
+      "0000, Santa Cruz De La Sierra, Bolivia, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/express-cargo-services-srl-ecs-srl-logo_18206_220520045426.png",
+    title: "EXPRESS CARGO SERVICES  S.R.L   (ECS , S.R.L)",
+    address:
+      " Av. Mariscal Santa Cruz, Esquina Calle Colón, Edificio Litoral, Piso 5, Oficina 1, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/exprinter-liftvans-bolivia-santa-cruz-logo_14375_220520054714.png",
+    title: "EXPRINTER LIFTVANS BOLIVIA SANTA CRUZ",
+    address: "Carretera Al Norte Km9, Po Box 125, Santa Cruz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/faderpa-ltda-logo_18191_220516110801.png",
+    title: "FADERPA  LTDA",
+    address:
+      "Calle Los Arenales Esq. Av. Uru Uru (detrás De La C.b.n.), Z/villa Bolivar , El Alto, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/faros-srl-logo_18207_220520100446.png",
+    title: "FAROS ,S.R.L",
+    address: "Calle Cisneros  Nro 1879, Miraflores, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/-logo_18194_220517062357.png",
+    title: "FRIDOSA  ,FRIGORIFICO DEL ORIENTE SOCIEDAD ANóNIMA",
+    address:
+      " Av. Virgen De Cotoca # 850, Entre 3er Anillo Interno Y 3er Anillo Externo., Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/inbolpack-srl-logo_18205_220519101411.png",
+    title: "INBOLPACK , S.R.L",
+    address:
+      "Carretera Al Norte Km9 Entrada Al Condominio Versalles, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/inbolsa-ltda-industria-boliviana-de-sacos-ltda-logo_18197_220518044256.jpg",
+    title: "INBOLSA LTDA , INDUSTRIA BOLIVIANA DE SACOS LTDA.",
+    address:
+      "Carretera A Viacha Km 1½ Detrás De Los Depósitos De La Aduana., El Alto, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/ingenio-azucarero-guabira-sa-logo_18200_220518071638.png",
+    title: "INGENIO AZUCARERO GUABIRA, S.A",
+    address:
+      "Carretera Al Norte Km. 56 Guabirá, Montero, Santa Cruz  Bolivia, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/la-francesa-ltda-logo_18190_220516102235.jpg",
+    title: "LA FRANCESA LTDA",
+    address: "Av.estados Unidos 1161, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/mamut-materiales-de-construccion-tecnologicos-logo_18192_220517041308.png",
+    title: "MAMUT MATERIALES DE CONSTRUCCION  TECNOLOGICOS",
+    address: " Edif. , Cochabamba, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/mega-movers-bolivia-logo_3126_220519090938.jpg",
+    title: "MEGA MOVERS BOLIVIA",
+    address:
+      "El Rosal, C. Gazania # 90, A Una Cuadra Y 1/2 De La Av. Mario Mercado, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/minera-san-cristobal-sa-logo_18198_220518053436.jpg",
+    title: "MINERA SAN CRISTOBAL ,SA",
+    address:
+      "Calacoto, Calle 15 Torre Ketal, Piso 5, La Paz, Bolivia, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/multidestinos-transporte-eirl-logo_18185_220512054541.png",
+    title: "MULTIDESTINOS TRANSPORTE,EIRL.",
+    address: "Zona El Kenko Calle 7 # 580 ., El Alto, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/navicargo-srl-logo_18174_220511044726.png",
+    title: "NAVICARGO SRL",
+    address:
+      "Calle Juan De La Riva N° 1406 Edificio Alborada Piso 9 Of.901, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/overseas-bolivia-sa-logo_18184_220511095905.png",
+    title: "OVERSEAS BOLIVIA-SA",
+    address:
+      "Av. Beni 4to Anillo, Torre Rubi Nº4343 Piso 11 Oficina Nº1101, Santa Cruz De La Sierra., Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "DEL MAR SHIPPING SANTA CRUZ",
+    address:
+      "Calle La Riva, Esq Velasco, Oficinas 304, 3 Piso, Santa Cruz , Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "DEPÓSITOS ADUANEROS BOLIVIANOS",
+    address: ", La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "DEZE AGENTE DE CARGA",
+    address:
+      "C. Hugo Estrada # 1354 Ed. Olimpia P2 Of. 201 Pza. Del Estadium Hernando Siles, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/-logo_7862_201211030600.png",
+    title: "DIETRICH LOGíSTICS INTERNATIONAL BOLIVIA",
+    address: "Calle Juan Coimbra 120 Edificio Fiori Of 2, Santa Cruz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "DIRECCION GENERAL  DE AERONAUTICA CIVIL DE BOLIVIA",
+    address: "Av. Arce No2631  Edificio Multicine Piso 9, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "E-CARGO OVERSEAS BOLIVIA",
+    address: "Av. Ballivian 857 Calacoto Ed. Sigma, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/-logo_12396_210325024115.png",
+    title: "EFEL GROUP S.R.L.",
+    address:
+      "Av. 3 Pasos Al Frente 5to Anillo Z/villa 1ro De Mayo C/11 Oeste Nro 70, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "EL PORVENIR LTDA.",
+    address: ", La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "EVERGREEN MARINE BOLIVIA",
+    address:
+      "Greenandes Bolivia. 4to Anillo Entre Av San Martin Y Av La Salle, Edificio Torre Duo Piso 11 Oficina A, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/expocarga-logistics-srl-logo_16520_220302102636.png",
+    title: "EXPOCARGA LOGISTICS  S.R.L ",
+    address:
+      "Barrio Polanco Calle H  #31 Entre 3er Y 4o Anillo Radial 10, Santa Cruz De La Sierra , Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "EXPRESS CARGO TRANSPORT",
+    address: ", La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "EXPRESS GLOBAL BOLIVIA SANTA CRUZ",
+    address:
+      "Av. San Martin 1800, Edificio Tacuaral, Oficina 303, 3er Piso, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "EXPRINTER BOLIVIA COCHABAMBA",
+    address: "Plaza 14 De Septiembre 0270, Po Box 856, Cochabamba, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "EXPRINTER BOLIVIA LA PAZ",
+    address: "Av. 6 De Agosto 2455.  Edif. Hilda 1er Piso, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "EXPRINTER LIFTVANS BOLIVIA",
+    address: ", Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "FBI FOB BUSINESS INTERNATIONAL",
+    address:
+      "Av. Beni Calle Los Paltos # 2020. Entre 2do Y 3er Anillo, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "FEDEX LOGISTICS/GRUPO SCHARFF BOLIVIA",
+    address:
+      "Calle Cochabamba Esq. Saavedra No. 694, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "FG LOGISTIC",
+    address:
+      "Av. Irala N° 585, Edif. Irala, P: 3° Of. 302, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../imagenes/logo/flumar-sa-logo_8172_220302110658.png",
+    title: "FLUMAR S.A.",
+    address:
+      "Av. San Martin Y Hugo Wast, Chuubi Mof 16a, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "FRANCO&MAR",
+    address: "C/armando Rosas #360 Mariano Pero Y Kennedy, Oruro , Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "GLOBAL VISION SERVICE",
+    address:
+      "Av Busch, Calle Santos Ortiz, Pasillo 23 De Septiembre N° 15, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "GM INTERNATIONAL FREIGHT FORWARDERS ",
+    address: "Gm International Freight Forwarders La Paz, La Paz, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "GREENANDES BOLIVIA",
+    address:
+      "Av. Banzer 7mo Anillo, Bario San Jorge, Santa Cruz De La Sierra, Bolivia",
+    url: "#0"
+  },
+  {
+    img: "../images/fondolistados.png",
+    title: "HAMBURG SÜD BOLIVIA",
+    address:
+      "Av. 20 De Octubre Nº 2601 Esq. Pinilla Edificio Julia Elena, Segundo Mezzanine, La Paz, Bolivia",
+    url: "#0"
+  }

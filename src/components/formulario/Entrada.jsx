@@ -1,13 +1,18 @@
-import React from 'react'
+import React from "react";
 
 function Entrada(props) {
-    const {label,type,placeholder}= props
+  const { label,name, type, placeholder, handleChange } = props;
   return (
-    <div className='entrada'>
-        <label>{label}</label>
-        <input type={type} placeholder={placeholder}/>
+    <div className="entrada">
+      <label>{label}</label>
+      <input
+      name={name}
+        type={type}
+        placeholder={placeholder}
+        onChange={handleChange}
+      />
     </div>
-  )
+  );
 }
 
-export default Entrada
+export default Entrada;
