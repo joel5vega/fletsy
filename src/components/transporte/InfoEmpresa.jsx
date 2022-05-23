@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { FaTruck } from "react-icons/fa";
 import { RiSendPlane2Fill } from "react-icons/ri";
+import {GiThermometerCold}  from  'react-icons/gi'
 import { MdVerified } from "react-icons/md";
 import './transporte.css'
 function InfoEmpresa(props) {
@@ -9,20 +10,21 @@ function InfoEmpresa(props) {
   return (
     <div className="oferta" key={id}>
       <div className="oferta__imagen">
-        <FaTruck />
+        {carga==="refrigerado"?
+        <GiThermometerCold />:<FaTruck/>}
       </div>
       <div className="oferta__datos">
         <h4>{estado === "verificado" && <MdVerified />}</h4>
         <h4>{nombre}</h4>
         <p>{departamento}</p>
-        <small>{carga}</small>
+        {/* <small>{carga}</small> */}
       </div>
       <div className="oferta__CTA">
-         <div className="boton__secundario">
+         {/* <div className="boton__secundario"> */}
         <Link to="/comercio/confirmar">
           <RiSendPlane2Fill />
         </Link>
-      </div>
+      {/* </div> */}
       </div>
      
     </div>

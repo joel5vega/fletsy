@@ -11,8 +11,10 @@
   flex-direction: row;
   gap:1rem;
   padding: 0.5rem ;
-  border: 1px solid transparent;
+  border: 1px solid var(--primario);
+  border-radius: 1rem;
   flex-basis: auto;
+  margin:0.5rem;
 }
 .oferta__imagen {
   /* background-color: red; */
@@ -21,7 +23,6 @@
 }
 .oferta__datos{
     width: 80%;
-    background-color: beige;
 }
 .oferta__filtros {
   /* background: var(--primario); */
@@ -31,6 +32,8 @@
 }
 .oferta__Cta{
     width: 7%;
+    font-size: large;
+    padding: 1rem;
 }
 .buscar__transporte {
   display: flex;

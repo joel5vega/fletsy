@@ -11,12 +11,11 @@ const BuscarTransporte = () => {
   const [options, setOptions] = useState({});
   const tipos = ["normal", "granel", "refrigerado", "sobredimensionado"];
   function buscarEventos(key, value) {
-    var filtro=[]
-    if(options.carga){
-      filtro = empresas.filter(empresa => empresa.carga === options.carga);
-    }
-    else{
-      filtro =data
+    var filtro = [];
+    if (options.carga) {
+      filtro = data.filter((empresa) => empresa.carga === options.carga);
+    } else {
+      filtro = data;
     }
     filtro = filtro.filter((empresa) => empresa[key] === value);
     setEmpresas(filtro);
@@ -30,10 +29,12 @@ const BuscarTransporte = () => {
       case "carga":
         buscarEventos(name, value);
         break;
-        case "origen" :
-          buscarEventos("departamento", value);
-          break;
-      // set
+      case "origen":
+        buscarEventos("departamento", value);
+        break;
+      default:
+        break;
+
     }
     // console.log(buscarEventos(name, value));
   };
@@ -108,16 +109,18 @@ const BuscarTransporte = () => {
             handleChange={handleChange}
           />
         </div>
-        <div className="lista">
-          <h3>Ofertas disponibles</h3>
-          {empresas.map((empresa) => {
-            return (
-              <div key={empresa.id}>
-                <InfoEmpresa empresa={empresa} />
-              </div>
-            );
-          })}
-        </div>
+        {options.origen && (
+          <div className="lista">
+            <h3>Ofertas disponibles</h3>
+            {empresas.map((empresa) => {
+              return (
+                <div key={empresa.id}>
+                  <InfoEmpresa empresa={empresa} />
+                </div>
+              );
+            })}
+          </div>
+        )}
       </div>
     </section>
   );
