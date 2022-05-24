@@ -1,32 +1,38 @@
 import React from "react";
 import MapView from "../maps/MapView";
 import Pedido from "../pedido/Pedido";
-import {Link} from "react-router-dom" 
-import "./comercial.css"
-function ConfirmarPedido() {
-  const pedido = {
-    id: 1,
-    transporte_id: "Empresa 1",
-    comercio_id: "Mi empresa",
-    origen: "LP",
-    destino: "SCZ"
-  };
-
+import { Link } from "react-router-dom";
+import { GiThermometerCold } from "react-icons/gi";
+import { FaTruck } from "react-icons/fa";
+import "./comercial.css";
+function ConfirmarPedido(props) {
+  const { carga, origen, destino } = props.pedido;
+  const { nombre, web, telefono, direccion } = props.transporte;
   return (
     <section>
       <div className="comercial">
-        <h1>Confirmar Pedido</h1>
-        <Pedido pedido={pedido} />
-        <div className="dato">
-          <label>Número de contacto</label>
-          <input type="text" placeholder="Número de contacto" />
+        <h1>
+          Confirmar Pedido{" "}
+            {carga === "refrigerado" ? <GiThermometerCold /> : <FaTruck />}
+        </h1>
+        <div className="transporte__datos">
+          <h3>Empresa de transporte</h3>
+          <a href={web}>{nombre}</a>
+          <p>
+            {telefono} - {direccion}
+          </p>
         </div>
-        <div className="dato">
-          <label>Punto de recojo & entrega </label> <MapView />
+        <Pedido pedido={props.pedido} />
+        <label>Punto de recojo & entrega </label>
+        <div className="mapa">
+          <MapView origen={origen} destino={destino} />
         </div>
 
-        <div className="boton__secundario" type="submit">
-          <Link to="comercio/confirmado">Confirmar</Link>
+        <div className="boton__secundario" onClick={()=>alert("Pedido confirmado")}type="submit">
+          <Link to="/">Confirmar</Link>
+        </div>
+        <div className="boton__primario" onClick={()=>alert("Pedido cancelado")}type="submit">
+          <Link to="/">Cancelar</Link>
         </div>
       </div>
     </section>

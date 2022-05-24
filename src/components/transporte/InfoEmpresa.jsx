@@ -1,17 +1,20 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import { FaTruck } from "react-icons/fa";
 import { RiSendPlane2Fill } from "react-icons/ri";
-import {GiThermometerCold}  from  'react-icons/gi'
+import { GiThermometerCold } from "react-icons/gi";
 import { MdVerified } from "react-icons/md";
-import './transporte.css'
+import "./transporte.css";
+
 function InfoEmpresa(props) {
   const { id, departamento, estado, nombre, carga } = props.empresa;
+  // console.log(props.empresa)
+  const showDetails=(event)=>{
+    props.showDetails(props.empresa)
+  }
   return (
     <div className="oferta" key={id}>
       <div className="oferta__imagen">
-        {carga==="refrigerado"?
-        <GiThermometerCold />:<FaTruck/>}
+        {carga === "refrigerado" ? <GiThermometerCold /> : <FaTruck />}
       </div>
       <div className="oferta__datos">
         <h4>{estado === "verificado" && <MdVerified />}</h4>
@@ -19,14 +22,11 @@ function InfoEmpresa(props) {
         <p>{departamento}</p>
         {/* <small>{carga}</small> */}
       </div>
-      <div className="oferta__CTA">
-         {/* <div className="boton__secundario"> */}
-        <Link to="/comercio/confirmar">
+      <div className="oferta__CTA" >
+        <button onClick={showDetails} >
           <RiSendPlane2Fill />
-        </Link>
-      {/* </div> */}
+          </button>
       </div>
-     
     </div>
   );
 }

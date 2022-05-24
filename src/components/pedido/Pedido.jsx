@@ -1,23 +1,21 @@
 import React from "react";
 import "./pedido.css";
 function Pedido(props) {
-  var { id, transporte_id, comercio_id,cotizacion, origen, destino,capacidad, tipo,estado } = props.pedido;
+  const { carga, origen, destino, capacidad } = props.pedido;
+
+  // var { id, cotizacion,estado } = {1,2,3}
   return (
     <div className="pedido">
-      <h3>Pedido #{id}</h3>
+      <h3>Pedido </h3>
       <div className="pedidos_datos">
         <div className="dato">
-          <label>Transportadora</label>
-          {transporte_id}
+          <label>Carga</label>
+          {carga}
         </div>
         <div className="dato">
-            <label>Cotización</label>
-            {cotizacion}
+          <label>Estado:</label>
+          {props.estado}
         </div>
-        {/* <div className="dato">
-          <label>Comercio</label>
-          {comercio_id}
-        </div> */}
         <div className="dato">
           <label>Origen</label> {origen}
         </div>
@@ -26,16 +24,12 @@ function Pedido(props) {
           {destino}
         </div>
         <div className="dato">
-          <label>Tipo</label>
-          {tipo}
-        </div>
-        <div className="dato">
           <label>Capacidad</label>
           {capacidad}
-        </div>
+        </div>{" "}
         <div className="dato">
-          <label>Estado:</label>
-          {estado}
+          <label>Cotización</label>
+          {capacidad * 1000}
         </div>
       </div>
     </div>
